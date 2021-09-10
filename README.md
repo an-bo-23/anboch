@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew Bochka. I am web developer.
+My name is Andrew. I am web developer.
 
 ## Here is my Tech Stack  🛠 
 - JavaScript
