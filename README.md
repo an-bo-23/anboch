@@ -3,16 +3,15 @@
 My name is Andrew. I am web developer.
 
 ## Here is my Tech Stack  🛠 
-- JavaScript
-- HTML
-- CSS
+- JavaScript / TypeScript
+- HTML / CSS 
 - React
-- Bootstrap
-- Redux / Redux-thunk / Redux Saga
-- MongoDB / Mongoose
-- Node.JS / Express
-- Ajax
-- REST
+- StyledComponents / MUI
+- React Query / Redux 
+- MongoDB / Redis
+- NestJS / Express / Node.JS
+- Git
+- Docker / GitHub Actions
 - Telegraf
 
 ## Contact me
