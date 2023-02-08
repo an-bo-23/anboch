@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew. I am web developer.
+My name is Andrew. I am fullstack web developer.
 
 ## Here is my Tech Stack  🛠 
 - JavaScript / TypeScript
@@ -8,11 +8,12 @@ My name is Andrew. I am web developer.
 - React
 - StyledComponents / MUI
 - React Query / Redux 
-- MongoDB / Redis
+- MongoDB / Redis / MySQL
 - NestJS / Express / Node.JS
-- Git
-- Docker / GitHub Actions
+- Git / Docker / GitHub Actions
 - Telegraf
+- Puppeteer
+- Agenda
 
 ## Contact me
 - a.g.bochka@gmail.com
